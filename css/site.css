@@ -1,0 +1,33 @@
+.nav-m-t{margin-top:60px;}
+.nav > li > a{ padding:0px 30px; border-right:1px solid #444444}
+.border-none{ border-right:none;}
+.nav > li > a.border-none{ border-right:none;}
+.navbar-default .navbar-nav > li > a.active{color:#fa0931;}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{ border:none;}
+.navbar-default{background: none; border:none;}
+.b-img{ width:150px;}
+section{ padding:85px 0px;}
+.h-lg{ font-size: 52px;}
+.homeBg{ background:url(../img/Backgrpund%20Image.png) no-repeat; background-size: cover;}
+.circle{background: #fff; height: 50px; width: 50px; border-radius: 25px;}
+.circle > img{margin: 18px;}
+.d-inlineb{display: inline-block;}
+.product-text{ background: url(../img/Product%20Arrow.png) no-repeat; background-position-x: 100%; padding-right: 30px;}
+.btn-f{padding:10px 40px; background:#ed1b24; color:#fff;border-radius: 18px; margin-top:15px;}
+.btn-f:hover, .btn-f:active{ color:#fff;}
+.contactBg{ background:#ebebeb; padding-top: 40px; margin-top:40px;}
+#contact{ padding:35px 0px;}
+.txt-bg { background:#e1e1e1; border-radius: 0px;}
+.b-radius-0{border-radius:0px;}
+.contac-info{ padding-left:50px;}
+.contac-info span{ padding-left:10px;}
+.contac-info div{ margin-top:26px;}
+.social-icons img{ margin-left: 15px;}
+.social-icons a:first-child img{ margin-left: 0px;}
+
+
+
+
+
+
+.m-t-15{ padding-top:15px;}
